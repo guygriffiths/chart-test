@@ -14,8 +14,7 @@
     "type": "git",
     "url": "git-repo-here"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "Guy Griffiths",
   "license": "ISC",
   "devDependencies": {
