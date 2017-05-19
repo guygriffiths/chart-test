@@ -1,6 +1,15 @@
+#pie-chart {
+    width: 800px;
+    height: 400px;
+    position:absolute;
+    left:0;
+    top:0;
+}
 
-h1 {
-    font-size: 14pt;
-    font-weight: bold;
-    color: darkcyan;
+#strip-plot {
+    width: 800px;
+    height: 200px;
+    position:absolute;
+    left:0;
+    top:400px;
 }
